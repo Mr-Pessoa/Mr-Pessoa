@@ -2,7 +2,7 @@
   
   <h1 align="center">
     Oi Tudo bem? Eu sou o 
-    <a href="https://www.linkedin.com/in/mateus-pessoa-lacerda-971a9a270/"> Mateus Pessoa😃️</a>
+    <a href="https://www.linkedin.com/in/mateus-pessoa-lacerda-971a9a270/"> Mateus Pessoa</a>
   </h1>
   
   <p align="center">

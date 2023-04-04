@@ -2,11 +2,17 @@
   
   <h1 align="center">
     Oi! Eu sou o 
-    <a href="https://www.linkedin.com/in/mateus-pessoa-lacerda-971a9a270/"> Mateus Pessoa</a>
+    <a href="https://www.linkedin.com/in/mateus-pessoa-lacerda-971a9a270/"> Mateus Pessoa. 
+</a>
   </h1>
+
+   
+  <h2 align="center"> Sobre: <h2/>
   
   <p align="center">
-    Sou Desenvolvedor Front-End em formação!
+Formação em técnico de informática pelo Senac-DF, cursando análise e desenvolvimento de sistemas no IFB. Atuo na área de infraestrutura de redes, suporte técnico e desenvolvimento web.
+
+Dedico meu tempo livre para desenvolver projetos web, melhorando minhas habilidades e conhecimentos, realizo estudos sobre o mercado financeiro e pratico atividades físicas. 
   </p>
  
 </div>
